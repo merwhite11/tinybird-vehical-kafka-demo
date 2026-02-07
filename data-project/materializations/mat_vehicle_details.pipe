@@ -1,3 +1,6 @@
+DESCRIPTION >
+    Materialized pipe to extract JSON fields from vehicle_data
+    
 NODE mv
 SQL >
 
