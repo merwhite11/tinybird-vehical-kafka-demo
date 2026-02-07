@@ -1,0 +1,16 @@
+{
+    "host": "https://api.us-west-2.aws.tinybird.co",
+    "id": "b972f3be-3920-47f0-9ef5-cc7c6071882f",
+    "name": "tb_poc_demo",
+    "scope": "user",
+    "token": "p.eyJ1IjogImI5NzJmM2JlLTM5MjAtNDdmMC05ZWY1LWNjN2M2MDcxODgyZiIsICJpZCI6ICI0NDdlMDlhMS0wMzNjLTQ0NDktYmQ3Ni05MzU1ZDRjNzRiNzciLCAiaG9zdCI6ICJhd3MtdXMtd2VzdC0yIn0.1zyy3qqigiconmkPVerzlv6rLgn2mEe31vO7JaWCGOI",
+    "tokens": {
+        "http://localhost:7181": "p.eyJ1IjogIjhjN2NlMmQ2LWE1OGItNDJiMC1hMzI2LTk4M2Y1NzlhNzYxZCIsICJpZCI6ICI0ZDhlNjdkMC1hOTVjLTQyYmQtYTBjOC0xZWU2YzIwN2M4YzAiLCAiaG9zdCI6IG51bGx9.iavJEW1c56nCeMgSvdz5Nn_9NOaCuvKKRqPOv4D_7x8",
+        "https://api.us-east.aws.tinybird.co": "p.eyJ1IjogIjJhZmFjMGEwLTQwZTQtNDBlMy04M2UzLWMxZTU1YTNkYjE1ZCIsICJpZCI6ICJhYWFlODJjNi00ZGQzLTQ4ZjAtODM0YS02MGM4Mjk3ZDU2MTciLCAiaG9zdCI6ICJ1cy1lYXN0LWF3cyJ9.3VCg9wTY8Hxaq13fRRZVmEkOKs5vLEmJjppMLcMMYT0",
+        "https://api.us-west-2.aws.tinybird.co": "p.eyJ1IjogImI5NzJmM2JlLTM5MjAtNDdmMC05ZWY1LWNjN2M2MDcxODgyZiIsICJpZCI6ICI0NDdlMDlhMS0wMzNjLTQ0NDktYmQ3Ni05MzU1ZDRjNzRiNzciLCAiaG9zdCI6ICJhd3MtdXMtd2VzdC0yIn0.1zyy3qqigiconmkPVerzlv6rLgn2mEe31vO7JaWCGOI"
+    },
+    "user_email": "meredith@tinybird.co",
+    "user_id": "0919a555-6c40-4818-ab78-d6315999498a",
+    "user_token": "p.eyJ1IjogIjA5MTlhNTU1LTZjNDAtNDgxOC1hYjc4LWQ2MzE1OTk5NDk4YSIsICJpZCI6ICIyZjQzZDc1Ny1mNDVlLTRjNjktYjNlYS1jMDk2ZjViNmVkYzciLCAiaG9zdCI6ICJhd3MtdXMtd2VzdC0yIn0.KvBVDfNxss8oK-dkCnclcA6W8Ale2JU_Y1nZXEubWlg",
+    "version": "5.15.0"
+}

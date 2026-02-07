@@ -15,6 +15,3 @@ SQL >
 
 TYPE materialized
 DATASOURCE mv_vehicle_details
-ENGINE "AggregatingMergeTree"
-ENGINE_SORTING_KEY "client_name, vehicle_id, license_plate"
-

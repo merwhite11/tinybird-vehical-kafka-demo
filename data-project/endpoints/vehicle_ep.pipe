@@ -1,0 +1,11 @@
+DESCRIPTION >
+    Endpoint that returns all data from vehicle_data_extracted for a given vehicle_id
+
+NODE vehicle_data_query
+SQL >
+    %
+    SELECT *
+    FROM vehicle_data_extracted
+    WHERE vehicle_id = {{Int64(vehicle_id)}}
+
+TYPE endpoint

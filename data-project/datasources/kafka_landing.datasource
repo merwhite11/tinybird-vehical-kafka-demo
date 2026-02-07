@@ -1,0 +1,12 @@
+SCHEMA >
+    `event` String `json:$.event`,
+    `timestamp` DateTime `json:$.timestamp`,
+    `vehicle_id` Int32 `json:$.vehicle_id`
+
+ENGINE "MergeTree"
+ENGINE_PARTITION_KEY "toYYYYMM(__timestamp)"
+ENGINE_SORTING_KEY "__timestamp"
+
+KAFKA_CONNECTION_NAME tb_server
+KAFKA_TOPIC demo_telemetry
+KAFKA_GROUP_ID demo_telemetry_prod

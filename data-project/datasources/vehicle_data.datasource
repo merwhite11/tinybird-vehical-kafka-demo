@@ -1,0 +1,11 @@
+DESCRIPTION >
+    Kafka datasource for vehicle telemetry data
+
+SCHEMA >
+    `data` String `json:$`
+
+ENGINE "MergeTree"
+
+KAFKA_CONNECTION_NAME tb_server
+KAFKA_TOPIC demo_telemetry
+KAFKA_GROUP_ID demo_telemetry_prod

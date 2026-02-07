@@ -1,0 +1,15 @@
+DESCRIPTION >
+    Materialized pipe to extract JSON fields from vehicle_data
+
+NODE extract_fields
+SQL >
+    SELECT
+        JSONExtractInt(data, 'vehicle_id') AS vehicle_id,
+        parseDateTimeBestEffort(JSONExtractString(data, 'timestamp')) AS timestamp,
+        JSONExtractFloat(JSONExtractString(data, 'event'), 'speed_mph') AS speed_mph,
+        JSONExtract(JSONExtractString(data, 'event'), 'geo_location', 'Array(Float64)') AS geo_location,
+        JSONExtract(JSONExtractString(data, 'event'), 'idling', 'Array(Int8)') AS idling
+    FROM vehicle_data
+
+TYPE materialized
+DATASOURCE vehicle_data_extracted
