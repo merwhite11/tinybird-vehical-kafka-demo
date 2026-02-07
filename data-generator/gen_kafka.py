@@ -2,11 +2,15 @@ import click
 import time
 import json
 import random
+import os
 import faker
 
 from datetime import datetime
 from confluent_kafka import Producer
+from dotenv import load_dotenv
 import socket
+
+load_dotenv()
 
 
 
@@ -16,11 +20,11 @@ import socket
 @click.option('--sleep', type=float, default=1)
 @click.option('--mps', help='number of messages per sleep (by default 200, and as by default sleep is 1, 200 messages/s',type=int, default=200)
 @click.option('--repeat', type=int, default=1)
-@click.option('--bootstrap-servers', default='pkc-l6wr6.europe-west2.gcp.confluent.cloud:9092')
+@click.option('--bootstrap-servers', default=lambda: os.environ.get('KAFKA_SERVERS'))
 @click.option('--security_protocol', default='SASL_SSL')
 @click.option('--sasl_mechanism', default='PLAIN')
-@click.option('--sasl_plain_username', default='CK2HOD6MSJ4IHAOY')
-@click.option('--sasl_plain_password', default='O7DaVz93rq73np4sPLh1fsVmqN2VHepJj9dZEt+kLi5Um+zgxcGZWbNbuNlRDY/T')
+@click.option('--sasl_plain_username', default=lambda: os.environ.get('KAFKA_KEY'))
+@click.option('--sasl_plain_password', default=lambda: os.environ.get('KAFKA_SECRET'))
 @click.option('--utc', help='UTC datetime for tmstmp by default', type=bool, default=True)
 @click.option('--bcp', is_flag=True, default=False)
 def produce(topic,
