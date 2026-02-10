@@ -2,14 +2,12 @@
 name: Tinybird - CI Workflow
 
 on:
-  workflow_dispatch:
-  pull_request:
-    branches:
+  push:
+    branches-ignore:
       - main
       - master
-    types: [opened, reopened, labeled, unlabeled, synchronize]
 
-concurrency: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 env:
   TINYBIRD_HOST: ${{ secrets.TINYBIRD_HOST }}
@@ -36,3 +34,5 @@ jobs:
         run: tb test run
       - name: Deployment check
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} deploy --check
+      - name: Create Tinybird branch
+        run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch create ${{ github.ref_name }} --last-partition
