@@ -2,12 +2,14 @@
 name: Tinybird - CD Workflow
 
 on:
-  push:
+  pull_request:
+    types:
+      - closed
     branches:
       - main
       - master
 
-concurrency: ${{ github.workflow }}-${{ github.event.ref }}
+concurrency: ${{ github.workflow }}-${{ github.event.pull_request.number }}
 
 env:
   TINYBIRD_HOST: ${{ secrets.TINYBIRD_HOST }}
@@ -15,6 +17,7 @@ env:
 
 jobs:
   cd:
+    if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -22,3 +25,5 @@ jobs:
         run: curl https://tinybird.co | sh
       - name: Deploy project
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} deploy --allow-destructive-operations
+      - name: Remove Tinybird branch
+        run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch rm ${{ github.head_ref }} --yes
