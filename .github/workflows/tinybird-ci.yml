@@ -34,5 +34,7 @@ jobs:
         run: tb test run
       - name: Deployment check
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} deploy --check
+      - name: Remove existing Tinybird branch if it exists
+        run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch rm ${{ github.ref_name }} --yes || true
       - name: Create Tinybird branch
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch create ${{ github.ref_name }} --last-partition

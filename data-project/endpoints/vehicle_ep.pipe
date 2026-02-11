@@ -6,6 +6,5 @@ SQL >
     %
     SELECT *
     FROM vehicle_data_extracted
-    WHERE vehicle_id = {{Int64(vehicle_id)}}
-
+    WHERE vehicle_id = {{Int64(vehicle_id)}} 
 TYPE endpoint

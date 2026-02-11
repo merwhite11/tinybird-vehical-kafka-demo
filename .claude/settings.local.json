@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tb deploy:*)",
+      "Bash(tb --help)"
+    ]
+  }
+}

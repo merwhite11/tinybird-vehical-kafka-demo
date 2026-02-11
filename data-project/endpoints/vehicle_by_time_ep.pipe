@@ -1,0 +1,11 @@
+DESCRIPTION >
+    Endpoint that returns all data from vehicle_data_extracted for a given time range
+
+NODE vehicle_data_query_0
+SQL >
+    %
+    SELECT *
+    FROM vehicle_data_extracted
+    WHERE timestamp > {{DateTime(start_time)}} and timestamp < {{DateTime(end_time)}}
+
+TYPE endpoint
