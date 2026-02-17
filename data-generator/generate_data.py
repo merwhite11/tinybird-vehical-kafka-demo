@@ -16,7 +16,7 @@ with open('data-project/fixtures/vehicle_data_valid.ndjson', 'w') as f:
             "idling": [is_idling]
         }
         record = {
-            "vehicle_id": random.randint(1000, 1050),
+            "vehicle_id": random.randint(1000000, 1005000),
             "timestamp": (base_time + timedelta(minutes=i)).strftime("%Y-%m-%d %H:%M:%S"),
             "event": json.dumps(event)
         }
