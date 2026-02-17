@@ -38,3 +38,7 @@ jobs:
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch rm ${{ github.ref_name }} --yes || true
       - name: Create Tinybird branch
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch create ${{ github.ref_name }} --last-partition
+      - name: Build branch with connections
+        run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} --branch ${{ github.ref_name }} build --with-connections
+      - name: Start vehicle_data datasource
+        run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} --branch ${{ github.ref_name }} datasource start vehicle_data
