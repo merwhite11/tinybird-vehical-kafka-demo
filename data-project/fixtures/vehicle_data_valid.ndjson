@@ -1,100 +1,100 @@
-{"vehicle_id": 1000, "timestamp": "2026-02-10 07:06:05", "speed": 69.65, "fuel_level": 18.76, "engine_temp": 105.8, "latitude": 37.856446, "longitude": -121.760375, "odometer": 114307, "battery_voltage": 12.06, "status": "parked"}
-{"vehicle_id": 1024, "timestamp": "2026-02-10 07:07:05", "speed": 44.14, "fuel_level": 86.55, "engine_temp": 97.61, "latitude": 37.360452, "longitude": -121.708738, "odometer": 111282, "battery_voltage": 12.41, "status": "parked"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 07:08:05", "speed": 76.06, "fuel_level": 95.18, "engine_temp": 91.59, "latitude": 37.973645, "longitude": -122.323326, "odometer": 117388, "battery_voltage": 12.87, "status": "active"}
-{"vehicle_id": 1018, "timestamp": "2026-02-10 07:09:05", "speed": 55.38, "fuel_level": 31.56, "engine_temp": 93.44, "latitude": 37.539018, "longitude": -122.108806, "odometer": 74412, "battery_voltage": 12.99, "status": "active"}
-{"vehicle_id": 1044, "timestamp": "2026-02-10 07:10:05", "speed": 38.37, "fuel_level": 35.78, "engine_temp": 83.46, "latitude": 37.547685, "longitude": -121.745285, "odometer": 108715, "battery_voltage": 14.09, "status": "idle"}
-{"vehicle_id": 1023, "timestamp": "2026-02-10 07:11:05", "speed": 13.37, "fuel_level": 79.38, "engine_temp": 81.47, "latitude": 37.925158, "longitude": -122.464604, "odometer": 141403, "battery_voltage": 13.44, "status": "idle"}
-{"vehicle_id": 1027, "timestamp": "2026-02-10 07:12:05", "speed": 53.64, "fuel_level": 26.21, "engine_temp": 86.46, "latitude": 37.511755, "longitude": -121.643457, "odometer": 10116, "battery_voltage": 14.23, "status": "idle"}
-{"vehicle_id": 1024, "timestamp": "2026-02-10 07:13:05", "speed": 41.69, "fuel_level": 42.39, "engine_temp": 96.38, "latitude": 37.841794, "longitude": -121.883283, "odometer": 105936, "battery_voltage": 13.77, "status": "parked"}
-{"vehicle_id": 1010, "timestamp": "2026-02-10 07:14:05", "speed": 77.65, "fuel_level": 62.59, "engine_temp": 108.58, "latitude": 37.418718, "longitude": -121.721337, "odometer": 143790, "battery_voltage": 14.03, "status": "active"}
-{"vehicle_id": 1008, "timestamp": "2026-02-10 07:15:05", "speed": 47.23, "fuel_level": 90.64, "engine_temp": 86.04, "latitude": 37.098762, "longitude": -121.92405, "odometer": 13828, "battery_voltage": 12.39, "status": "parked"}
-{"vehicle_id": 1030, "timestamp": "2026-02-10 07:16:05", "speed": 11.16, "fuel_level": 40.64, "engine_temp": 90.01, "latitude": 37.110294, "longitude": -121.534268, "odometer": 114740, "battery_voltage": 13.4, "status": "active"}
-{"vehicle_id": 1026, "timestamp": "2026-02-10 07:17:05", "speed": 13.13, "fuel_level": 60.88, "engine_temp": 95.66, "latitude": 37.171307, "longitude": -122.233265, "odometer": 24038, "battery_voltage": 13.08, "status": "idle"}
-{"vehicle_id": 1028, "timestamp": "2026-02-10 07:18:05", "speed": 42.07, "fuel_level": 23.43, "engine_temp": 99.19, "latitude": 37.821794, "longitude": -121.759196, "odometer": 101387, "battery_voltage": 14.04, "status": "idle"}
-{"vehicle_id": 1003, "timestamp": "2026-02-10 07:19:05", "speed": 72.09, "fuel_level": 70.84, "engine_temp": 85.33, "latitude": 37.33156, "longitude": -121.959851, "odometer": 30846, "battery_voltage": 12.11, "status": "active"}
-{"vehicle_id": 1034, "timestamp": "2026-02-10 07:20:05", "speed": 4.63, "fuel_level": 66.34, "engine_temp": 88.7, "latitude": 37.150473, "longitude": -121.675022, "odometer": 24835, "battery_voltage": 13.24, "status": "active"}
-{"vehicle_id": 1016, "timestamp": "2026-02-10 07:21:05", "speed": 14.73, "fuel_level": 11.07, "engine_temp": 103.91, "latitude": 37.811341, "longitude": -122.34832, "odometer": 85101, "battery_voltage": 12.09, "status": "idle"}
-{"vehicle_id": 1005, "timestamp": "2026-02-10 07:22:05", "speed": 26.08, "fuel_level": 96.78, "engine_temp": 83.7, "latitude": 37.548924, "longitude": -122.345947, "odometer": 44024, "battery_voltage": 13.61, "status": "idle"}
-{"vehicle_id": 1012, "timestamp": "2026-02-10 07:23:05", "speed": 19.31, "fuel_level": 22.9, "engine_temp": 85.86, "latitude": 37.529679, "longitude": -122.484267, "odometer": 128035, "battery_voltage": 13.47, "status": "active"}
-{"vehicle_id": 1027, "timestamp": "2026-02-10 07:24:05", "speed": 6.06, "fuel_level": 44.18, "engine_temp": 108.5, "latitude": 37.773252, "longitude": -121.747989, "odometer": 134136, "battery_voltage": 13.48, "status": "parked"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 07:25:05", "speed": 74.92, "fuel_level": 39.48, "engine_temp": 106.27, "latitude": 37.667224, "longitude": -122.44754, "odometer": 83821, "battery_voltage": 13.03, "status": "active"}
-{"vehicle_id": 1027, "timestamp": "2026-02-10 07:26:05", "speed": 4.8, "fuel_level": 83.35, "engine_temp": 107.62, "latitude": 37.563186, "longitude": -121.561334, "odometer": 72742, "battery_voltage": 12.35, "status": "idle"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 07:27:05", "speed": 8.84, "fuel_level": 34.64, "engine_temp": 104.23, "latitude": 37.145507, "longitude": -121.614946, "odometer": 85494, "battery_voltage": 12.84, "status": "parked"}
-{"vehicle_id": 1049, "timestamp": "2026-02-10 07:28:05", "speed": 27.93, "fuel_level": 35.53, "engine_temp": 97.07, "latitude": 37.45273, "longitude": -121.64759, "odometer": 144978, "battery_voltage": 12.51, "status": "idle"}
-{"vehicle_id": 1013, "timestamp": "2026-02-10 07:29:05", "speed": 39.81, "fuel_level": 11.22, "engine_temp": 94.21, "latitude": 37.685658, "longitude": -122.016355, "odometer": 31382, "battery_voltage": 13.23, "status": "parked"}
-{"vehicle_id": 1033, "timestamp": "2026-02-10 07:30:05", "speed": 53.91, "fuel_level": 43.59, "engine_temp": 85.25, "latitude": 37.750665, "longitude": -122.320333, "odometer": 114443, "battery_voltage": 12.01, "status": "parked"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 07:31:05", "speed": 35.83, "fuel_level": 86.68, "engine_temp": 98.2, "latitude": 37.566598, "longitude": -122.239196, "odometer": 76215, "battery_voltage": 12.92, "status": "parked"}
-{"vehicle_id": 1036, "timestamp": "2026-02-10 07:32:05", "speed": 22.11, "fuel_level": 33.63, "engine_temp": 82.66, "latitude": 37.331856, "longitude": -121.900039, "odometer": 142607, "battery_voltage": 12.02, "status": "active"}
-{"vehicle_id": 1017, "timestamp": "2026-02-10 07:33:05", "speed": 34.66, "fuel_level": 49.81, "engine_temp": 107.78, "latitude": 37.934047, "longitude": -122.330768, "odometer": 52499, "battery_voltage": 12.04, "status": "idle"}
-{"vehicle_id": 1047, "timestamp": "2026-02-10 07:34:05", "speed": 50.29, "fuel_level": 19.39, "engine_temp": 80.78, "latitude": 37.044742, "longitude": -121.82547, "odometer": 132978, "battery_voltage": 14.05, "status": "idle"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 07:35:05", "speed": 9.96, "fuel_level": 17.21, "engine_temp": 109.66, "latitude": 37.319801, "longitude": -121.675963, "odometer": 99572, "battery_voltage": 13.49, "status": "idle"}
-{"vehicle_id": 1040, "timestamp": "2026-02-10 07:36:05", "speed": 24.03, "fuel_level": 77.07, "engine_temp": 105.81, "latitude": 37.347399, "longitude": -121.644205, "odometer": 81001, "battery_voltage": 14.18, "status": "parked"}
-{"vehicle_id": 1028, "timestamp": "2026-02-10 07:37:05", "speed": 40.47, "fuel_level": 33.79, "engine_temp": 104.55, "latitude": 37.270185, "longitude": -121.702039, "odometer": 60096, "battery_voltage": 13.66, "status": "idle"}
-{"vehicle_id": 1042, "timestamp": "2026-02-10 07:38:05", "speed": 38.32, "fuel_level": 55.47, "engine_temp": 102.7, "latitude": 37.240753, "longitude": -121.560882, "odometer": 107675, "battery_voltage": 14.25, "status": "idle"}
-{"vehicle_id": 1003, "timestamp": "2026-02-10 07:39:05", "speed": 49.63, "fuel_level": 69.27, "engine_temp": 93.04, "latitude": 37.453478, "longitude": -121.816903, "odometer": 60294, "battery_voltage": 12.26, "status": "idle"}
-{"vehicle_id": 1027, "timestamp": "2026-02-10 07:40:05", "speed": 43.38, "fuel_level": 62.52, "engine_temp": 84.29, "latitude": 37.338551, "longitude": -122.148683, "odometer": 19419, "battery_voltage": 14.24, "status": "parked"}
-{"vehicle_id": 1010, "timestamp": "2026-02-10 07:41:05", "speed": 58.11, "fuel_level": 95.49, "engine_temp": 86.42, "latitude": 37.534833, "longitude": -122.178202, "odometer": 41748, "battery_voltage": 14.13, "status": "active"}
-{"vehicle_id": 1040, "timestamp": "2026-02-10 07:42:05", "speed": 43.28, "fuel_level": 71.06, "engine_temp": 82.1, "latitude": 37.843908, "longitude": -122.09867, "odometer": 39757, "battery_voltage": 13.01, "status": "idle"}
-{"vehicle_id": 1009, "timestamp": "2026-02-10 07:43:05", "speed": 58.03, "fuel_level": 76.75, "engine_temp": 99.55, "latitude": 37.47033, "longitude": -121.938139, "odometer": 36567, "battery_voltage": 12.45, "status": "parked"}
-{"vehicle_id": 1049, "timestamp": "2026-02-10 07:44:05", "speed": 74.16, "fuel_level": 30.12, "engine_temp": 81.23, "latitude": 37.136306, "longitude": -121.991978, "odometer": 96619, "battery_voltage": 12.23, "status": "active"}
-{"vehicle_id": 1029, "timestamp": "2026-02-10 07:45:05", "speed": 54.32, "fuel_level": 71.13, "engine_temp": 92.13, "latitude": 37.52523, "longitude": -121.971144, "odometer": 93679, "battery_voltage": 14.24, "status": "parked"}
-{"vehicle_id": 1041, "timestamp": "2026-02-10 07:46:05", "speed": 72.43, "fuel_level": 92.83, "engine_temp": 103.29, "latitude": 37.081912, "longitude": -122.418129, "odometer": 108992, "battery_voltage": 12.75, "status": "active"}
-{"vehicle_id": 1033, "timestamp": "2026-02-10 07:47:05", "speed": 36.38, "fuel_level": 61.05, "engine_temp": 101.61, "latitude": 37.119721, "longitude": -122.494915, "odometer": 110004, "battery_voltage": 13.78, "status": "idle"}
-{"vehicle_id": 1022, "timestamp": "2026-02-10 07:48:05", "speed": 69.4, "fuel_level": 68.71, "engine_temp": 88.53, "latitude": 37.129763, "longitude": -122.120595, "odometer": 65188, "battery_voltage": 14.23, "status": "idle"}
-{"vehicle_id": 1011, "timestamp": "2026-02-10 07:49:05", "speed": 54.74, "fuel_level": 24.43, "engine_temp": 97.48, "latitude": 37.222943, "longitude": -121.825337, "odometer": 29554, "battery_voltage": 13.39, "status": "parked"}
-{"vehicle_id": 1015, "timestamp": "2026-02-10 07:50:05", "speed": 50.45, "fuel_level": 48.28, "engine_temp": 87.23, "latitude": 37.299788, "longitude": -122.286701, "odometer": 102379, "battery_voltage": 13.14, "status": "idle"}
-{"vehicle_id": 1021, "timestamp": "2026-02-10 07:51:05", "speed": 26.84, "fuel_level": 20.12, "engine_temp": 103.67, "latitude": 37.172839, "longitude": -121.534304, "odometer": 82692, "battery_voltage": 14.02, "status": "idle"}
-{"vehicle_id": 1040, "timestamp": "2026-02-10 07:52:05", "speed": 15.1, "fuel_level": 80.15, "engine_temp": 89.36, "latitude": 37.467385, "longitude": -122.363899, "odometer": 50213, "battery_voltage": 12.98, "status": "idle"}
-{"vehicle_id": 1037, "timestamp": "2026-02-10 07:53:05", "speed": 6.63, "fuel_level": 17.15, "engine_temp": 103.68, "latitude": 37.530871, "longitude": -122.424161, "odometer": 38604, "battery_voltage": 14.17, "status": "idle"}
-{"vehicle_id": 1020, "timestamp": "2026-02-10 07:54:05", "speed": 17.61, "fuel_level": 12.08, "engine_temp": 82.62, "latitude": 37.108889, "longitude": -122.465468, "odometer": 26339, "battery_voltage": 12.48, "status": "idle"}
-{"vehicle_id": 1003, "timestamp": "2026-02-10 07:55:05", "speed": 72.5, "fuel_level": 64.16, "engine_temp": 86.28, "latitude": 37.0727, "longitude": -121.561999, "odometer": 48287, "battery_voltage": 14.18, "status": "active"}
-{"vehicle_id": 1048, "timestamp": "2026-02-10 07:56:05", "speed": 64.89, "fuel_level": 59.06, "engine_temp": 99.43, "latitude": 37.384887, "longitude": -121.702017, "odometer": 78492, "battery_voltage": 13.23, "status": "idle"}
-{"vehicle_id": 1038, "timestamp": "2026-02-10 07:57:05", "speed": 37.55, "fuel_level": 74.96, "engine_temp": 85.62, "latitude": 37.368243, "longitude": -122.1551, "odometer": 89241, "battery_voltage": 13.31, "status": "active"}
-{"vehicle_id": 1014, "timestamp": "2026-02-10 07:58:05", "speed": 36.16, "fuel_level": 44.83, "engine_temp": 80.69, "latitude": 37.032266, "longitude": -121.978628, "odometer": 23605, "battery_voltage": 12.73, "status": "idle"}
-{"vehicle_id": 1028, "timestamp": "2026-02-10 07:59:05", "speed": 48.83, "fuel_level": 34.82, "engine_temp": 97.7, "latitude": 37.221052, "longitude": -122.479649, "odometer": 84322, "battery_voltage": 14.41, "status": "active"}
-{"vehicle_id": 1008, "timestamp": "2026-02-10 08:00:05", "speed": 42.52, "fuel_level": 41.77, "engine_temp": 90.26, "latitude": 37.408116, "longitude": -122.099079, "odometer": 53748, "battery_voltage": 12.97, "status": "parked"}
-{"vehicle_id": 1044, "timestamp": "2026-02-10 08:01:05", "speed": 44.22, "fuel_level": 68.38, "engine_temp": 97.18, "latitude": 37.870037, "longitude": -122.307054, "odometer": 89363, "battery_voltage": 13.2, "status": "idle"}
-{"vehicle_id": 1021, "timestamp": "2026-02-10 08:02:05", "speed": 53.87, "fuel_level": 48.87, "engine_temp": 81.19, "latitude": 37.297528, "longitude": -121.988496, "odometer": 10719, "battery_voltage": 13.77, "status": "active"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 08:03:05", "speed": 40.65, "fuel_level": 89.26, "engine_temp": 94.36, "latitude": 37.406469, "longitude": -122.132409, "odometer": 41651, "battery_voltage": 13.6, "status": "idle"}
-{"vehicle_id": 1000, "timestamp": "2026-02-10 08:04:05", "speed": 35.12, "fuel_level": 83.24, "engine_temp": 100.42, "latitude": 37.68333, "longitude": -122.29285, "odometer": 85319, "battery_voltage": 13.65, "status": "active"}
-{"vehicle_id": 1019, "timestamp": "2026-02-10 08:05:05", "speed": 71.27, "fuel_level": 70.13, "engine_temp": 105.86, "latitude": 37.430709, "longitude": -122.469668, "odometer": 127813, "battery_voltage": 13.62, "status": "parked"}
-{"vehicle_id": 1007, "timestamp": "2026-02-10 08:06:05", "speed": 6.99, "fuel_level": 98.7, "engine_temp": 91.85, "latitude": 37.735424, "longitude": -122.236509, "odometer": 132749, "battery_voltage": 12.22, "status": "active"}
-{"vehicle_id": 1049, "timestamp": "2026-02-10 08:07:05", "speed": 45.18, "fuel_level": 67.18, "engine_temp": 94.9, "latitude": 37.259538, "longitude": -122.231988, "odometer": 13604, "battery_voltage": 12.4, "status": "active"}
-{"vehicle_id": 1003, "timestamp": "2026-02-10 08:08:05", "speed": 67.42, "fuel_level": 48.04, "engine_temp": 105.16, "latitude": 37.928557, "longitude": -121.748174, "odometer": 147610, "battery_voltage": 13.75, "status": "idle"}
-{"vehicle_id": 1033, "timestamp": "2026-02-10 08:09:05", "speed": 41.94, "fuel_level": 91.5, "engine_temp": 85.43, "latitude": 37.959613, "longitude": -122.35455, "odometer": 45471, "battery_voltage": 13.49, "status": "parked"}
-{"vehicle_id": 1046, "timestamp": "2026-02-10 08:10:05", "speed": 4.26, "fuel_level": 56.04, "engine_temp": 103.39, "latitude": 37.074258, "longitude": -121.850149, "odometer": 25978, "battery_voltage": 12.25, "status": "active"}
-{"vehicle_id": 1037, "timestamp": "2026-02-10 08:11:05", "speed": 63.59, "fuel_level": 43.31, "engine_temp": 94.02, "latitude": 37.764347, "longitude": -121.874908, "odometer": 114260, "battery_voltage": 13.7, "status": "active"}
-{"vehicle_id": 1037, "timestamp": "2026-02-10 08:12:05", "speed": 10.93, "fuel_level": 85.53, "engine_temp": 92.93, "latitude": 37.329429, "longitude": -121.851249, "odometer": 78262, "battery_voltage": 12.51, "status": "idle"}
-{"vehicle_id": 1031, "timestamp": "2026-02-10 08:13:05", "speed": 46.33, "fuel_level": 82.51, "engine_temp": 104.18, "latitude": 37.419548, "longitude": -121.603415, "odometer": 96844, "battery_voltage": 14.48, "status": "active"}
-{"vehicle_id": 1009, "timestamp": "2026-02-10 08:14:05", "speed": 62.18, "fuel_level": 44.79, "engine_temp": 82.01, "latitude": 37.282516, "longitude": -121.526604, "odometer": 68719, "battery_voltage": 13.23, "status": "idle"}
-{"vehicle_id": 1030, "timestamp": "2026-02-10 08:15:05", "speed": 34.8, "fuel_level": 13.93, "engine_temp": 83.51, "latitude": 37.607507, "longitude": -121.680157, "odometer": 91784, "battery_voltage": 14.0, "status": "idle"}
-{"vehicle_id": 1010, "timestamp": "2026-02-10 08:16:05", "speed": 45.68, "fuel_level": 29.61, "engine_temp": 85.51, "latitude": 37.752147, "longitude": -121.795483, "odometer": 47785, "battery_voltage": 13.08, "status": "active"}
-{"vehicle_id": 1037, "timestamp": "2026-02-10 08:17:05", "speed": 75.02, "fuel_level": 76.62, "engine_temp": 100.79, "latitude": 37.127657, "longitude": -122.28202, "odometer": 19914, "battery_voltage": 12.36, "status": "parked"}
-{"vehicle_id": 1003, "timestamp": "2026-02-10 08:18:05", "speed": 5.6, "fuel_level": 11.03, "engine_temp": 87.25, "latitude": 37.281168, "longitude": -121.68845, "odometer": 139579, "battery_voltage": 13.69, "status": "parked"}
-{"vehicle_id": 1007, "timestamp": "2026-02-10 08:19:05", "speed": 2.56, "fuel_level": 29.53, "engine_temp": 91.86, "latitude": 37.615743, "longitude": -122.283922, "odometer": 107893, "battery_voltage": 13.75, "status": "active"}
-{"vehicle_id": 1024, "timestamp": "2026-02-10 08:20:05", "speed": 22.35, "fuel_level": 40.4, "engine_temp": 80.24, "latitude": 37.105218, "longitude": -122.33259, "odometer": 18577, "battery_voltage": 13.08, "status": "parked"}
-{"vehicle_id": 1039, "timestamp": "2026-02-10 08:21:05", "speed": 52.32, "fuel_level": 49.86, "engine_temp": 109.75, "latitude": 37.967592, "longitude": -122.466894, "odometer": 41200, "battery_voltage": 12.86, "status": "parked"}
-{"vehicle_id": 1023, "timestamp": "2026-02-10 08:22:05", "speed": 38.19, "fuel_level": 76.0, "engine_temp": 95.08, "latitude": 37.570766, "longitude": -121.675982, "odometer": 109611, "battery_voltage": 13.38, "status": "parked"}
-{"vehicle_id": 1016, "timestamp": "2026-02-10 08:23:05", "speed": 6.18, "fuel_level": 39.62, "engine_temp": 96.95, "latitude": 37.657105, "longitude": -122.21963, "odometer": 31997, "battery_voltage": 12.41, "status": "idle"}
-{"vehicle_id": 1035, "timestamp": "2026-02-10 08:24:05", "speed": 69.04, "fuel_level": 92.95, "engine_temp": 97.68, "latitude": 37.615888, "longitude": -122.378796, "odometer": 86595, "battery_voltage": 13.24, "status": "parked"}
-{"vehicle_id": 1028, "timestamp": "2026-02-10 08:25:05", "speed": 11.91, "fuel_level": 65.5, "engine_temp": 95.29, "latitude": 37.667936, "longitude": -121.656679, "odometer": 99761, "battery_voltage": 14.4, "status": "active"}
-{"vehicle_id": 1005, "timestamp": "2026-02-10 08:26:05", "speed": 11.6, "fuel_level": 95.99, "engine_temp": 104.74, "latitude": 37.639275, "longitude": -122.43258, "odometer": 129290, "battery_voltage": 14.3, "status": "parked"}
-{"vehicle_id": 1039, "timestamp": "2026-02-10 08:27:05", "speed": 20.54, "fuel_level": 89.29, "engine_temp": 108.59, "latitude": 37.218874, "longitude": -122.318117, "odometer": 23666, "battery_voltage": 12.8, "status": "parked"}
-{"vehicle_id": 1010, "timestamp": "2026-02-10 08:28:05", "speed": 68.19, "fuel_level": 70.14, "engine_temp": 86.43, "latitude": 37.899705, "longitude": -122.091603, "odometer": 45746, "battery_voltage": 13.86, "status": "idle"}
-{"vehicle_id": 1033, "timestamp": "2026-02-10 08:29:05", "speed": 50.18, "fuel_level": 73.37, "engine_temp": 100.42, "latitude": 37.705313, "longitude": -121.609083, "odometer": 145255, "battery_voltage": 13.78, "status": "active"}
-{"vehicle_id": 1021, "timestamp": "2026-02-10 08:30:05", "speed": 7.63, "fuel_level": 20.69, "engine_temp": 104.39, "latitude": 37.671077, "longitude": -121.608601, "odometer": 129012, "battery_voltage": 12.93, "status": "idle"}
-{"vehicle_id": 1040, "timestamp": "2026-02-10 08:31:05", "speed": 2.4, "fuel_level": 50.34, "engine_temp": 86.47, "latitude": 37.405812, "longitude": -121.612609, "odometer": 18901, "battery_voltage": 12.55, "status": "idle"}
-{"vehicle_id": 1014, "timestamp": "2026-02-10 08:32:05", "speed": 63.84, "fuel_level": 91.13, "engine_temp": 84.77, "latitude": 37.846568, "longitude": -121.573976, "odometer": 29938, "battery_voltage": 13.25, "status": "idle"}
-{"vehicle_id": 1012, "timestamp": "2026-02-10 08:33:05", "speed": 28.23, "fuel_level": 54.72, "engine_temp": 95.69, "latitude": 37.41007, "longitude": -122.027127, "odometer": 117119, "battery_voltage": 12.79, "status": "active"}
-{"vehicle_id": 1041, "timestamp": "2026-02-10 08:34:05", "speed": 3.65, "fuel_level": 29.97, "engine_temp": 93.9, "latitude": 37.639473, "longitude": -122.30776, "odometer": 29683, "battery_voltage": 14.37, "status": "active"}
-{"vehicle_id": 1021, "timestamp": "2026-02-10 08:35:05", "speed": 65.81, "fuel_level": 35.59, "engine_temp": 87.35, "latitude": 37.839486, "longitude": -122.381812, "odometer": 82365, "battery_voltage": 14.02, "status": "idle"}
-{"vehicle_id": 1027, "timestamp": "2026-02-10 08:36:05", "speed": 62.46, "fuel_level": 27.51, "engine_temp": 80.38, "latitude": 37.852127, "longitude": -122.420323, "odometer": 54826, "battery_voltage": 13.72, "status": "idle"}
-{"vehicle_id": 1043, "timestamp": "2026-02-10 08:37:05", "speed": 36.98, "fuel_level": 14.26, "engine_temp": 92.56, "latitude": 37.564546, "longitude": -121.961431, "odometer": 66782, "battery_voltage": 14.26, "status": "active"}
-{"vehicle_id": 1034, "timestamp": "2026-02-10 08:38:05", "speed": 36.25, "fuel_level": 90.43, "engine_temp": 101.35, "latitude": 37.885961, "longitude": -121.577675, "odometer": 69887, "battery_voltage": 12.17, "status": "parked"}
-{"vehicle_id": 1030, "timestamp": "2026-02-10 08:39:05", "speed": 65.47, "fuel_level": 34.76, "engine_temp": 98.98, "latitude": 37.785321, "longitude": -121.64302, "odometer": 20525, "battery_voltage": 14.16, "status": "active"}
-{"vehicle_id": 1029, "timestamp": "2026-02-10 08:40:05", "speed": 9.74, "fuel_level": 50.67, "engine_temp": 91.96, "latitude": 37.512893, "longitude": -121.822557, "odometer": 124861, "battery_voltage": 12.44, "status": "active"}
-{"vehicle_id": 1007, "timestamp": "2026-02-10 08:41:05", "speed": 15.64, "fuel_level": 24.52, "engine_temp": 87.07, "latitude": 37.255274, "longitude": -121.634499, "odometer": 11682, "battery_voltage": 12.51, "status": "active"}
-{"vehicle_id": 1010, "timestamp": "2026-02-10 08:42:05", "speed": 55.22, "fuel_level": 74.15, "engine_temp": 86.22, "latitude": 37.549876, "longitude": -121.583927, "odometer": 26148, "battery_voltage": 12.49, "status": "parked"}
-{"vehicle_id": 1024, "timestamp": "2026-02-10 08:43:05", "speed": 28.43, "fuel_level": 98.71, "engine_temp": 99.84, "latitude": 37.831433, "longitude": -121.63086, "odometer": 74130, "battery_voltage": 12.66, "status": "idle"}
-{"vehicle_id": 1048, "timestamp": "2026-02-10 08:44:05", "speed": 76.81, "fuel_level": 83.01, "engine_temp": 101.96, "latitude": 37.666486, "longitude": -122.188734, "odometer": 31521, "battery_voltage": 14.48, "status": "parked"}
-{"vehicle_id": 1022, "timestamp": "2026-02-10 08:45:05", "speed": 19.28, "fuel_level": 44.98, "engine_temp": 109.74, "latitude": 37.682873, "longitude": -122.166266, "odometer": 23410, "battery_voltage": 13.72, "status": "parked"}
+{"vehicle_id": 1014, "timestamp": "2026-02-17 10:47:43", "event": "{\"speed_mph\": 1.45, \"geo_location\": [37.735002, -121.694922], \"idling\": [0]}"}
+{"vehicle_id": 1027, "timestamp": "2026-02-17 10:48:43", "event": "{\"speed_mph\": 42.62, \"geo_location\": [37.539709, -121.533201], \"idling\": [0]}"}
+{"vehicle_id": 1036, "timestamp": "2026-02-17 10:49:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.215603, -122.378628], \"idling\": [1]}"}
+{"vehicle_id": 1028, "timestamp": "2026-02-17 10:50:43", "event": "{\"speed_mph\": 37.22, \"geo_location\": [37.215041, -121.804282], \"idling\": [0]}"}
+{"vehicle_id": 1046, "timestamp": "2026-02-17 10:51:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.984033, -121.676257], \"idling\": [1]}"}
+{"vehicle_id": 1014, "timestamp": "2026-02-17 10:52:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.101828, -122.241417], \"idling\": [1]}"}
+{"vehicle_id": 1010, "timestamp": "2026-02-17 10:53:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.898113, -121.753995], \"idling\": [1]}"}
+{"vehicle_id": 1022, "timestamp": "2026-02-17 10:54:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.934598, -121.754639], \"idling\": [1]}"}
+{"vehicle_id": 1016, "timestamp": "2026-02-17 10:55:43", "event": "{\"speed_mph\": 52.74, \"geo_location\": [37.274153, -121.613932], \"idling\": [0]}"}
+{"vehicle_id": 1023, "timestamp": "2026-02-17 10:56:43", "event": "{\"speed_mph\": 35.46, \"geo_location\": [37.237297, -121.549407], \"idling\": [0]}"}
+{"vehicle_id": 1042, "timestamp": "2026-02-17 10:57:43", "event": "{\"speed_mph\": 6.64, \"geo_location\": [37.093113, -121.954002], \"idling\": [0]}"}
+{"vehicle_id": 1013, "timestamp": "2026-02-17 10:58:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.267597, -122.144994], \"idling\": [1]}"}
+{"vehicle_id": 1032, "timestamp": "2026-02-17 10:59:43", "event": "{\"speed_mph\": 22.98, \"geo_location\": [37.792116, -122.409436], \"idling\": [0]}"}
+{"vehicle_id": 1032, "timestamp": "2026-02-17 11:00:43", "event": "{\"speed_mph\": 24.76, \"geo_location\": [37.808989, -121.67955], \"idling\": [0]}"}
+{"vehicle_id": 1031, "timestamp": "2026-02-17 11:01:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.24572, -121.761318], \"idling\": [1]}"}
+{"vehicle_id": 1021, "timestamp": "2026-02-17 11:02:43", "event": "{\"speed_mph\": 6.17, \"geo_location\": [37.613274, -122.497896], \"idling\": [0]}"}
+{"vehicle_id": 1000, "timestamp": "2026-02-17 11:03:43", "event": "{\"speed_mph\": 77.64, \"geo_location\": [37.865989, -122.042383], \"idling\": [0]}"}
+{"vehicle_id": 1025, "timestamp": "2026-02-17 11:04:43", "event": "{\"speed_mph\": 55.79, \"geo_location\": [37.787006, -122.128553], \"idling\": [0]}"}
+{"vehicle_id": 1019, "timestamp": "2026-02-17 11:05:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.250265, -122.209358], \"idling\": [1]}"}
+{"vehicle_id": 1013, "timestamp": "2026-02-17 11:06:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.141637, -121.818589], \"idling\": [1]}"}
+{"vehicle_id": 1026, "timestamp": "2026-02-17 11:07:43", "event": "{\"speed_mph\": 36.76, \"geo_location\": [37.064112, -121.877407], \"idling\": [0]}"}
+{"vehicle_id": 1033, "timestamp": "2026-02-17 11:08:43", "event": "{\"speed_mph\": 16.66, \"geo_location\": [37.316299, -121.551941], \"idling\": [0]}"}
+{"vehicle_id": 1003, "timestamp": "2026-02-17 11:09:43", "event": "{\"speed_mph\": 24.36, \"geo_location\": [37.638089, -122.429754], \"idling\": [0]}"}
+{"vehicle_id": 1008, "timestamp": "2026-02-17 11:10:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.502113, -122.306365], \"idling\": [1]}"}
+{"vehicle_id": 1005, "timestamp": "2026-02-17 11:11:43", "event": "{\"speed_mph\": 46.42, \"geo_location\": [37.995253, -122.40326], \"idling\": [0]}"}
+{"vehicle_id": 1004, "timestamp": "2026-02-17 11:12:43", "event": "{\"speed_mph\": 50.04, \"geo_location\": [37.6025, -121.561025], \"idling\": [0]}"}
+{"vehicle_id": 1014, "timestamp": "2026-02-17 11:13:43", "event": "{\"speed_mph\": 64.67, \"geo_location\": [37.545868, -121.744957], \"idling\": [0]}"}
+{"vehicle_id": 1035, "timestamp": "2026-02-17 11:14:43", "event": "{\"speed_mph\": 0.23, \"geo_location\": [37.024934, -122.33453], \"idling\": [0]}"}
+{"vehicle_id": 1034, "timestamp": "2026-02-17 11:15:43", "event": "{\"speed_mph\": 66.56, \"geo_location\": [37.809772, -122.310767], \"idling\": [0]}"}
+{"vehicle_id": 1016, "timestamp": "2026-02-17 11:16:43", "event": "{\"speed_mph\": 59.67, \"geo_location\": [37.870554, -121.766787], \"idling\": [0]}"}
+{"vehicle_id": 1011, "timestamp": "2026-02-17 11:17:43", "event": "{\"speed_mph\": 74.83, \"geo_location\": [37.10108, -121.975586], \"idling\": [0]}"}
+{"vehicle_id": 1050, "timestamp": "2026-02-17 11:18:43", "event": "{\"speed_mph\": 79.17, \"geo_location\": [37.85469, -122.215902], \"idling\": [0]}"}
+{"vehicle_id": 1018, "timestamp": "2026-02-17 11:19:43", "event": "{\"speed_mph\": 71.85, \"geo_location\": [37.647373, -121.876299], \"idling\": [0]}"}
+{"vehicle_id": 1006, "timestamp": "2026-02-17 11:20:43", "event": "{\"speed_mph\": 54.77, \"geo_location\": [37.05931, -122.251472], \"idling\": [0]}"}
+{"vehicle_id": 1012, "timestamp": "2026-02-17 11:21:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.225513, -121.565967], \"idling\": [1]}"}
+{"vehicle_id": 1045, "timestamp": "2026-02-17 11:22:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.599151, -122.221199], \"idling\": [1]}"}
+{"vehicle_id": 1026, "timestamp": "2026-02-17 11:23:43", "event": "{\"speed_mph\": 34.07, \"geo_location\": [37.932513, -121.607634], \"idling\": [0]}"}
+{"vehicle_id": 1021, "timestamp": "2026-02-17 11:24:43", "event": "{\"speed_mph\": 50.75, \"geo_location\": [37.547281, -121.504898], \"idling\": [0]}"}
+{"vehicle_id": 1002, "timestamp": "2026-02-17 11:25:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.02092, -121.6721], \"idling\": [1]}"}
+{"vehicle_id": 1020, "timestamp": "2026-02-17 11:26:43", "event": "{\"speed_mph\": 30.1, \"geo_location\": [37.996682, -122.121452], \"idling\": [0]}"}
+{"vehicle_id": 1050, "timestamp": "2026-02-17 11:27:43", "event": "{\"speed_mph\": 71.31, \"geo_location\": [37.404218, -121.545807], \"idling\": [0]}"}
+{"vehicle_id": 1029, "timestamp": "2026-02-17 11:28:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.605087, -121.872716], \"idling\": [1]}"}
+{"vehicle_id": 1049, "timestamp": "2026-02-17 11:29:43", "event": "{\"speed_mph\": 74.2, \"geo_location\": [37.503956, -122.043591], \"idling\": [0]}"}
+{"vehicle_id": 1023, "timestamp": "2026-02-17 11:30:43", "event": "{\"speed_mph\": 31.27, \"geo_location\": [37.394228, -122.474464], \"idling\": [0]}"}
+{"vehicle_id": 1047, "timestamp": "2026-02-17 11:31:43", "event": "{\"speed_mph\": 5.23, \"geo_location\": [37.519303, -121.892695], \"idling\": [0]}"}
+{"vehicle_id": 1043, "timestamp": "2026-02-17 11:32:43", "event": "{\"speed_mph\": 67.59, \"geo_location\": [37.646946, -122.240454], \"idling\": [0]}"}
+{"vehicle_id": 1015, "timestamp": "2026-02-17 11:33:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.988901, -121.709644], \"idling\": [1]}"}
+{"vehicle_id": 1034, "timestamp": "2026-02-17 11:34:43", "event": "{\"speed_mph\": 32.83, \"geo_location\": [37.218679, -121.634616], \"idling\": [0]}"}
+{"vehicle_id": 1016, "timestamp": "2026-02-17 11:35:43", "event": "{\"speed_mph\": 9.34, \"geo_location\": [37.283698, -121.741176], \"idling\": [0]}"}
+{"vehicle_id": 1027, "timestamp": "2026-02-17 11:36:43", "event": "{\"speed_mph\": 36.96, \"geo_location\": [37.651499, -122.463887], \"idling\": [0]}"}
+{"vehicle_id": 1037, "timestamp": "2026-02-17 11:37:43", "event": "{\"speed_mph\": 49.01, \"geo_location\": [37.01027, -122.376924], \"idling\": [0]}"}
+{"vehicle_id": 1027, "timestamp": "2026-02-17 11:38:43", "event": "{\"speed_mph\": 68.25, \"geo_location\": [37.979837, -122.258086], \"idling\": [0]}"}
+{"vehicle_id": 1024, "timestamp": "2026-02-17 11:39:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.160157, -122.028178], \"idling\": [1]}"}
+{"vehicle_id": 1028, "timestamp": "2026-02-17 11:40:43", "event": "{\"speed_mph\": 2.08, \"geo_location\": [37.825242, -122.124362], \"idling\": [0]}"}
+{"vehicle_id": 1043, "timestamp": "2026-02-17 11:41:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.774991, -122.21682], \"idling\": [1]}"}
+{"vehicle_id": 1027, "timestamp": "2026-02-17 11:42:43", "event": "{\"speed_mph\": 52.49, \"geo_location\": [37.979014, -121.889123], \"idling\": [0]}"}
+{"vehicle_id": 1000, "timestamp": "2026-02-17 11:43:43", "event": "{\"speed_mph\": 19.1, \"geo_location\": [37.571385, -122.039226], \"idling\": [0]}"}
+{"vehicle_id": 1045, "timestamp": "2026-02-17 11:44:43", "event": "{\"speed_mph\": 45.55, \"geo_location\": [37.978132, -121.687076], \"idling\": [0]}"}
+{"vehicle_id": 1023, "timestamp": "2026-02-17 11:45:43", "event": "{\"speed_mph\": 60.73, \"geo_location\": [37.933134, -121.960236], \"idling\": [0]}"}
+{"vehicle_id": 1012, "timestamp": "2026-02-17 11:46:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.817404, -122.444407], \"idling\": [1]}"}
+{"vehicle_id": 1043, "timestamp": "2026-02-17 11:47:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.336668, -121.680648], \"idling\": [1]}"}
+{"vehicle_id": 1000, "timestamp": "2026-02-17 11:48:43", "event": "{\"speed_mph\": 33.27, \"geo_location\": [37.222299, -122.360143], \"idling\": [0]}"}
+{"vehicle_id": 1050, "timestamp": "2026-02-17 11:49:43", "event": "{\"speed_mph\": 10.66, \"geo_location\": [37.761394, -122.034768], \"idling\": [0]}"}
+{"vehicle_id": 1011, "timestamp": "2026-02-17 11:50:43", "event": "{\"speed_mph\": 50.56, \"geo_location\": [37.067692, -122.170303], \"idling\": [0]}"}
+{"vehicle_id": 1024, "timestamp": "2026-02-17 11:51:43", "event": "{\"speed_mph\": 79.35, \"geo_location\": [37.020327, -121.868731], \"idling\": [0]}"}
+{"vehicle_id": 1028, "timestamp": "2026-02-17 11:52:43", "event": "{\"speed_mph\": 24.87, \"geo_location\": [37.42073, -122.439203], \"idling\": [0]}"}
+{"vehicle_id": 1032, "timestamp": "2026-02-17 11:53:43", "event": "{\"speed_mph\": 11.03, \"geo_location\": [37.664311, -122.214574], \"idling\": [0]}"}
+{"vehicle_id": 1040, "timestamp": "2026-02-17 11:54:43", "event": "{\"speed_mph\": 63.16, \"geo_location\": [37.765959, -122.085792], \"idling\": [0]}"}
+{"vehicle_id": 1014, "timestamp": "2026-02-17 11:55:43", "event": "{\"speed_mph\": 8.82, \"geo_location\": [37.36513, -122.011317], \"idling\": [0]}"}
+{"vehicle_id": 1036, "timestamp": "2026-02-17 11:56:43", "event": "{\"speed_mph\": 46.3, \"geo_location\": [37.761545, -122.198679], \"idling\": [0]}"}
+{"vehicle_id": 1002, "timestamp": "2026-02-17 11:57:43", "event": "{\"speed_mph\": 56.17, \"geo_location\": [37.413665, -121.766214], \"idling\": [0]}"}
+{"vehicle_id": 1007, "timestamp": "2026-02-17 11:58:43", "event": "{\"speed_mph\": 15.3, \"geo_location\": [37.994586, -122.321843], \"idling\": [0]}"}
+{"vehicle_id": 1047, "timestamp": "2026-02-17 11:59:43", "event": "{\"speed_mph\": 32.21, \"geo_location\": [37.785067, -121.781558], \"idling\": [0]}"}
+{"vehicle_id": 1025, "timestamp": "2026-02-17 12:00:43", "event": "{\"speed_mph\": 41.08, \"geo_location\": [37.164789, -122.296985], \"idling\": [0]}"}
+{"vehicle_id": 1050, "timestamp": "2026-02-17 12:01:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.388255, -122.28979], \"idling\": [1]}"}
+{"vehicle_id": 1027, "timestamp": "2026-02-17 12:02:43", "event": "{\"speed_mph\": 33.13, \"geo_location\": [37.203759, -122.269423], \"idling\": [0]}"}
+{"vehicle_id": 1038, "timestamp": "2026-02-17 12:03:43", "event": "{\"speed_mph\": 67.8, \"geo_location\": [37.282234, -122.329126], \"idling\": [0]}"}
+{"vehicle_id": 1011, "timestamp": "2026-02-17 12:04:43", "event": "{\"speed_mph\": 37.28, \"geo_location\": [37.231318, -121.583197], \"idling\": [0]}"}
+{"vehicle_id": 1029, "timestamp": "2026-02-17 12:05:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.022924, -122.26217], \"idling\": [1]}"}
+{"vehicle_id": 1021, "timestamp": "2026-02-17 12:06:43", "event": "{\"speed_mph\": 42.97, \"geo_location\": [37.229694, -122.471399], \"idling\": [0]}"}
+{"vehicle_id": 1018, "timestamp": "2026-02-17 12:07:43", "event": "{\"speed_mph\": 2.97, \"geo_location\": [37.083038, -122.296675], \"idling\": [0]}"}
+{"vehicle_id": 1000, "timestamp": "2026-02-17 12:08:43", "event": "{\"speed_mph\": 19.22, \"geo_location\": [37.921177, -122.371263], \"idling\": [0]}"}
+{"vehicle_id": 1047, "timestamp": "2026-02-17 12:09:43", "event": "{\"speed_mph\": 67.63, \"geo_location\": [37.625194, -122.323333], \"idling\": [0]}"}
+{"vehicle_id": 1021, "timestamp": "2026-02-17 12:10:43", "event": "{\"speed_mph\": 22.12, \"geo_location\": [37.051639, -121.593133], \"idling\": [0]}"}
+{"vehicle_id": 1041, "timestamp": "2026-02-17 12:11:43", "event": "{\"speed_mph\": 16.78, \"geo_location\": [37.181184, -122.123757], \"idling\": [0]}"}
+{"vehicle_id": 1021, "timestamp": "2026-02-17 12:12:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.57516, -122.348792], \"idling\": [1]}"}
+{"vehicle_id": 1016, "timestamp": "2026-02-17 12:13:43", "event": "{\"speed_mph\": 54.03, \"geo_location\": [37.261063, -122.264231], \"idling\": [0]}"}
+{"vehicle_id": 1012, "timestamp": "2026-02-17 12:14:43", "event": "{\"speed_mph\": 68.63, \"geo_location\": [37.331073, -122.416233], \"idling\": [0]}"}
+{"vehicle_id": 1001, "timestamp": "2026-02-17 12:15:43", "event": "{\"speed_mph\": 45.55, \"geo_location\": [37.783655, -122.173902], \"idling\": [0]}"}
+{"vehicle_id": 1038, "timestamp": "2026-02-17 12:16:43", "event": "{\"speed_mph\": 60.93, \"geo_location\": [37.120783, -122.154919], \"idling\": [0]}"}
+{"vehicle_id": 1042, "timestamp": "2026-02-17 12:17:43", "event": "{\"speed_mph\": 15.62, \"geo_location\": [37.187669, -121.626919], \"idling\": [0]}"}
+{"vehicle_id": 1027, "timestamp": "2026-02-17 12:18:43", "event": "{\"speed_mph\": 61.34, \"geo_location\": [37.706313, -121.670445], \"idling\": [0]}"}
+{"vehicle_id": 1043, "timestamp": "2026-02-17 12:19:43", "event": "{\"speed_mph\": 11.61, \"geo_location\": [37.023944, -121.945149], \"idling\": [0]}"}
+{"vehicle_id": 1000, "timestamp": "2026-02-17 12:20:43", "event": "{\"speed_mph\": 24.95, \"geo_location\": [37.544836, -122.052864], \"idling\": [0]}"}
+{"vehicle_id": 1010, "timestamp": "2026-02-17 12:21:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.113257, -121.599438], \"idling\": [1]}"}
+{"vehicle_id": 1039, "timestamp": "2026-02-17 12:22:43", "event": "{\"speed_mph\": 6.01, \"geo_location\": [37.354129, -121.966615], \"idling\": [0]}"}
+{"vehicle_id": 1009, "timestamp": "2026-02-17 12:23:43", "event": "{\"speed_mph\": 59.13, \"geo_location\": [37.207679, -122.301214], \"idling\": [0]}"}
+{"vehicle_id": 1033, "timestamp": "2026-02-17 12:24:43", "event": "{\"speed_mph\": 50.92, \"geo_location\": [37.866239, -121.699304], \"idling\": [0]}"}
+{"vehicle_id": 1024, "timestamp": "2026-02-17 12:25:43", "event": "{\"speed_mph\": 10.41, \"geo_location\": [37.510394, -121.876519], \"idling\": [0]}"}
+{"vehicle_id": 1040, "timestamp": "2026-02-17 12:26:43", "event": "{\"speed_mph\": 0, \"geo_location\": [37.636832, -121.533465], \"idling\": [1]}"}
