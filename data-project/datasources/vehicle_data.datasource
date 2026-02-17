@@ -7,5 +7,5 @@ SCHEMA >
 ENGINE "MergeTree"
 
 KAFKA_CONNECTION_NAME tb_server
-KAFKA_TOPIC demo_telemetry
-KAFKA_GROUP_ID demo_telemetry_prod
+KAFKA_TOPIC {{ tb_secret("KAFKA_TOPIC", "test-topic") }}
+KAFKA_GROUP_ID {{ tb_secret("KAFKA_GROUP_ID", "local-dev-group") }}
