@@ -6,6 +6,6 @@ SQL >
     %
     SELECT *
     FROM vehicle_data_extracted
-    WHERE vehicle_id >= {{Int64(vehicle_id, 1002259)}}
-
+    WHERE vehicle_id >= {{Int64(vehicle_id, 1002259)}} and timestamp >= {{DateTime(start_time, '2026-02-17 00:00:00')}}
+    
 TYPE endpoint
