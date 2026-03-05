@@ -1,0 +1,12 @@
+DESCRIPTION >
+    Target datasource for extracted vehicle data
+
+SCHEMA >
+    `vehicle_id` Int64,
+    `timestamp` DateTime,
+    `speed_mph` Float64,
+    `geo_location` Array(Float64),
+    `idling` Array(Int8)
+
+ENGINE "MergeTree"
+ENGINE_SORTING_KEY "vehicle_id, timestamp"
