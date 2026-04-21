@@ -40,5 +40,13 @@ jobs:
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch create ${{ github.ref_name }}
       - name: Build branch with connections
         run: tb --branch=${{ github.ref_name }} --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} build --with-connections
+      - name: Capture Tinybird server logs                                                                                                           
+        if: always()                                                                                                                               
+        run: |
+          CONTAINER=$(docker ps -q --filter "ancestor=tinybirdco/tinybird-local:latest")
+          echo "=== Tinybird server log ==="
+          docker exec $CONTAINER tail -300 /var/log/tinybird-local-server.log
+          echo "=== ClickHouse query log ==="
+          docker exec $CONTAINER tail -300 /var/log/clickhouse-server/clickhouse-server.log
       - name: Start vehicle_data datasource
         run: tb --branch=${{ github.ref_name }} --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }}  datasource start vehicle_data
