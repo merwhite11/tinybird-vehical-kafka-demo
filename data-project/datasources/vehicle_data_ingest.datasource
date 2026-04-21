@@ -1,0 +1,8 @@
+DESCRIPTION >
+    Upstream datasource for vehicle telemetry data ingested via HTTP/Events API
+
+SCHEMA >
+    `data` String `json:$.data`
+
+ENGINE "MergeTree"
+ENGINE_SORTING_KEY "tuple()"

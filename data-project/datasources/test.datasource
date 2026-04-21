@@ -1,0 +1,12 @@
+DESCRIPTION >
+    Kafka datasource for vehicle telemetry data test
+
+SCHEMA >
+    `data` String `json:$`
+
+ENGINE "ReplacingMergeTree"
+ENGINE_SORTING_KEY "data"   
+
+KAFKA_CONNECTION_NAME tb_server
+KAFKA_TOPIC {{ tb_secret("KAFKA_TOPIC", "test-topic") }}
+KAFKA_GROUP_ID {{ tb_secret("KAFKA_GROUP_ID", "local-dev-group") }}
