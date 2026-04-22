@@ -3,9 +3,8 @@ name: Tinybird - CI Workflow
 
 on:
   push:
-    branches-ignore:
+    branches:
       - main
-      - master
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
