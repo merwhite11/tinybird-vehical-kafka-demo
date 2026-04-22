@@ -38,7 +38,7 @@ jobs:
       - name: Create Tinybird branch
         run: tb --cloud --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} branch create ${{ github.ref_name }}
       - name: Build branch with connections
-        run: tb --branch=${{ github.ref_name }} --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} build --with-connections
+        run: tb --branch=${{ github.ref_name }} --host ${{ env.TINYBIRD_HOST }} --token ${{ env.TINYBIRD_TOKEN }} build --with-connections --allow-destructive-operations
       - name: Capture Tinybird server logs                                                                                                           
         if: always()                                                                                                                               
         run: |
