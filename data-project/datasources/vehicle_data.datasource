@@ -6,6 +6,6 @@ SCHEMA >
 
 ENGINE "MergeTree"
 
-KAFKA_CONNECTION_NAME tb_server
+KAFKA_CONNECTION_NAME kafka_connection
 KAFKA_TOPIC {{ tb_secret("KAFKA_TOPIC", "test-topic") }}
 KAFKA_GROUP_ID {{ tb_secret("KAFKA_GROUP_ID", "local-dev-group") }}

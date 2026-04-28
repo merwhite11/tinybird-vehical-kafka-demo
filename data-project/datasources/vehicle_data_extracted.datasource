@@ -10,3 +10,4 @@ SCHEMA >
 
 ENGINE "MergeTree"
 ENGINE_SORTING_KEY "vehicle_id, timestamp"
+

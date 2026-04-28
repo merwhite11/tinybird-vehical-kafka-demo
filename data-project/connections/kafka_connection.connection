@@ -1,0 +1,7 @@
+TYPE kafka
+KAFKA_BOOTSTRAP_SERVERS {{ tb_secret("KAFKA_BOOTSTRAP_SERVER") }}
+KAFKA_SECURITY_PROTOCOL SASL_SSL
+KAFKA_SASL_MECHANISM PLAIN
+KAFKA_KEY {{ tb_secret("KAFKA_KEY") }}
+KAFKA_SECRET {{ tb_secret("KAFKA_SECRET") }}
+# Learn more at https://www.tinybird.co/docs/forward/get-data-in/connectors/kafka#kafka-connection-settings
